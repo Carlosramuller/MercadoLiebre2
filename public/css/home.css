@@ -1,0 +1,68 @@
+.home{
+    background-color: var(--color-amarillo);
+    font-family: 'Roboto';
+    font-size: 14px;
+}
+.home header {
+    
+}
+.home h2{
+    font-size: 24px;
+}
+.home h4{
+    font-size: 18px;
+}
+.home span{
+    font-size: 16px;
+}
+.home h3{
+    font-size: 16px;
+}
+.home ul{
+    padding-left: 0px;
+}
+.home nav li a{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.burguer-menu{
+    background-color: var(--color-azul);
+    display: inline-block;
+    text-align: center;  
+}
+.home p{
+    text-align: center;
+}
+.home .pagos{
+    text-align: center;
+}
+.home .envio{ 
+    text-align: center;
+}
+.home .security{
+    text-align: center;
+}
+.fa-credit-card{
+    margin-top: 10px;
+    font-size: 2em;
+    color: #1259c3;
+    text-align: center;
+}
+.fa-gift{
+    margin-top: 10px;
+    font-size: 2em;
+    color: #1259c3;
+    text-align: center;
+}
+.fa-user-shield{
+    margin-top: 10px;
+    font-size: 2em;
+    color: #1259c3;
+    text-align: center;
+}
+.home footer{
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+}
